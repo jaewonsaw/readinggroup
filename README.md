@@ -8,4 +8,4 @@ Discuss papers at the intersection of data science, computer science, statistics
 - Submit paper suggestion (with the paper PDF) to [paper suggestions](https://github.com/jaewonsaw/readinggroup/tree/main/paper%20suggestions)
 - Vote for paper to discuss at the end of each meeting
 - Person who submitted the selected paper presents discussion slides at meeting, also uploaded to [paper discussions](https://github.com/jaewonsaw/readinggroup/tree/main/paper%20discussions) at the end of each meeting
-- Contribute to shared google doc to keep track of major discussion points and questions
+- Contribute to shared google doc (?) to keep track of major discussion points and questions
